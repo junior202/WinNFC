@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinNFC", "WinNFC\WinNFC.csproj", "{269E2861-0442-4590-886F-9081E6984BCC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{269E2861-0442-4590-886F-9081E6984BCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{269E2861-0442-4590-886F-9081E6984BCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{269E2861-0442-4590-886F-9081E6984BCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{269E2861-0442-4590-886F-9081E6984BCC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3EE6321C-2261-4EF4-B016-8DBBE568BD49}
+	EndGlobalSection
+EndGlobal
